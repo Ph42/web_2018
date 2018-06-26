@@ -1,4 +1,7 @@
-
+*{
+  margin: 0 0 0 0;
+  text-aling:left;
+}
 /*
 .logo.container{
   margin: 0 0 0 0;
@@ -13,9 +16,39 @@
 .c3{  
   background-color: #703070;
 }
+.c4{  
+  background-color: #e04365;
+}
 .i1{  
   background-color: #19afb4;
 }
 .i2{  
   background-color: rgb(96, 207, 130);
 }
+.logo *{
+  margin: 0 0 0 0;
+}
+.sublogo{
+  margin: 0 0 0 0;
+}
+.header{
+  margin: 3% 0 0 0;
+}
+.header-1{
+  text-align:center;
+}
+.gallery{
+  height: 50%;
+}
+.foto{  
+  background-color: rgb(171, 230, 230);
+}
+.foto-list{  
+  background-color: #cfc5a5;
+}
+/*
+.row{
+  margin-left:0;
+  margin-right:0;
+}
+*/
